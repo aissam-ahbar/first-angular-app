@@ -18,6 +18,6 @@ npm --version
 ng --version
 ```
 
-## Generate new app project: Would you like to add Angular routing ? No | Which stylesheet format would you like to use ? CSS
+## Generate new app project (add Angular routing ? No,  Which stylesheet format to use ? CSS) :
 
 ng new first-angular-app
