@@ -6,18 +6,27 @@
 node --version
 ```
 
-## Check npm is installed (Node Package Manager):
+## Check npm is installed (Node Package Manager to handle dependencies):
 
 ```
 npm --version
 ```
 
-## Check Angular CLI is installed (If not, please follow course on install Angular CLI):
+## Install Angular CLI (ng tools to create, develop, test, deploy our application)
+
+npm install @angular/cli
+
+## Check Angular CLI to get version and check it is working
 
 ```
 ng --version
 ```
 
-## Generate new app project (add Angular routing ? No,  Which stylesheet format to use ? CSS) :
+## Generate new app project
 
+- Add Angular routing ? No
+- Which stylesheet format to use ? CSS
+
+```
 ng new first-angular-app
+```
