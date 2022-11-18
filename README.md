@@ -32,3 +32,11 @@ ng version
 ```
 ng new first-angular-app
 ```
+
+## Build & Serve the application.
+
+- It loads the application in the browser in port 4200.
+
+```
+ng serve
+```
